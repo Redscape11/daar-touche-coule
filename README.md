@@ -1,4 +1,4 @@
-# Rendu projet DAAR - Touché Coulé
+# Rendu projet DAAR - Touché Coulé par Virak SY et Ashanth CHANDRAMOHAN
 
 ![Exemple fenêtre](public/exemple.png)
 
